@@ -3,7 +3,7 @@
 1.[zshrc](https://github.com/mpyeager/dotfiles/blob/main/zshrc)
 Used to modify [ZSH](https://en.wikipedia.org/wiki/Z_shell) and to support custom themes from [OhMyZSH][1].
 Following [OhMyZsh][1] [plugins][2] are used:
-* [bazel]([2]/bazel "Build and test tool open sourced from Google blaze")
+* [bazel](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/bazel "Build and test tool open sourced from Google blaze")
 * [brew](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/brew "Package manager for MacOS")
 * [chucknorris](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/chucknorris "No day is complete without a Chuck Norris quote")
 * [command-not-found](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found "Automagically suggest packages to be installed if a command no worky")
