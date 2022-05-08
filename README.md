@@ -5,7 +5,7 @@ Used to modify [ZSH](https://en.wikipedia.org/wiki/Z_shell) and to support custo
 Following [OhMyZsh](https://ohmyz.sh) [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) are used:
 * [bazel](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/bazel "Build and test tool open sourced from Google blaze")
 * [brew](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/brew "Package manager for MacOS")
-* [chucknorris](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/chucknorris "No day is complete without a Chuck Norris quote)
+* [chucknorris](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/chucknorris "No day is complete without a Chuck Norris quote")
 * [command-not-found](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found "Automagically suggest packages to be installed if a command no worky")
 * [copyfile](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copyfile "Puts contents of file to system clipboard")
 * [copypath](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copypath "Copy absolute path of given directory or file to system clipboard")
