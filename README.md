@@ -2,8 +2,8 @@
 
 1.[zshrc](https://github.com/mpyeager/dotfiles/blob/main/zshrc)
 Used to modify [ZSH](https://en.wikipedia.org/wiki/Z_shell) and to support custom themes from [OhMyZSH][1].
-Following [OhMyZsh][1] [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) are used:
-* [bazel](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/bazel "Build and test tool open sourced from Google blaze")
+Following [OhMyZsh][1] [plugins][2] are used:
+* [bazel]([2]/bazel "Build and test tool open sourced from Google blaze")
 * [brew](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/brew "Package manager for MacOS")
 * [chucknorris](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/chucknorris "No day is complete without a Chuck Norris quote")
 * [command-not-found](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found "Automagically suggest packages to be installed if a command no worky")
@@ -23,3 +23,4 @@ Following [OhMyZsh][1] [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/
 2.[bullet-train](https://github.com/mpyeager/dotfiles/blob/main/bullet-train) used to augment [OhMyZSH theme](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) [Bullet Train](https://github.com/caiogondim/bullet-train.zsh)
 
 [1]: https://ohmyz.sh
+[2]: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins
