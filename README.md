@@ -22,5 +22,8 @@ Following [OhMyZsh][1] [plugins][2] are used:
 
 2. [bullet-train](https://github.com/mpyeager/dotfiles/blob/main/bullet-train) used to augment [OhMyZSH theme](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) [Bullet Train](https://github.com/caiogondim/bullet-train.zsh)
 
+## Not a dotfile, but pretty damn useful
+1. [trash](https://hasseg.org/trash/) which can be installed with [Homebrew]("brew install trash"), then `alias rm='trash` to tell your system that you want to use `trash` instead of `rm`. Don't worry, you can always use `\rm` if you want to use the native `rm`.
+2. [z](https://github.com/rupa/z "This will change your life!") is hugely useful as it creates a local database to record most frequently accessed directories when using `cd`. 
 [1]: https://ohmyz.sh
 [2]: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins
