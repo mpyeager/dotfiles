@@ -4,6 +4,12 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+# Path to z.
+ . /Users/mpy/z.sh
+
+# Map rm to Trash
+alias rm='trash'
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -87,6 +93,7 @@ mercurial
 thefuck
 vscode
 zsh-interactive-cd
+z
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -116,3 +123,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
