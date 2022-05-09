@@ -121,8 +121,10 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-
+alias zshcfg="nano ~/.zshrc"
+alias ohmyzsh="nano ~/.oh-my-zsh/custom/themes/bullet-train.zsh-theme"
+alias dotfiles="cd ~/dotfiles"
+alias uzsh="cp ~/.zshrc ~/dotfiles/zshrc"
+alias uohmy="cp ~/.oh-my-zsh/custom/themes/bullet-train.zsh-theme ~/dotfiles/bullet-train"
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
